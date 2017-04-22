@@ -1,0 +1,39 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #2d3c49;
+}
+
+.hrstyle {
+	background-color: #7d97ad;
+	height: 5px;
+}
+
+.logo {
+	margin-top: 20px;
+	height: 100px;
+	width: 100px;
+}
+
+.name {
+	font-size: 60px;
+	font-weight: 100;
+	margin-bottom: 0;
+}
+
+.subname {
+	margin-top: 0;
+}
+
+.headtitle {
+	color: #7d97ad;
+	font-size: 40px;
+}
+
+.title {
+	font-size: 40px;
+	margin: 8px;
+}
+
+.link {
+	font-size: 17px;
+}
