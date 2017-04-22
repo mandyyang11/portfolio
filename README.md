@@ -4,4 +4,5 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 
 The design mockup is located [here](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf).
  
+ # Project Screenshot
 ![website screenshot](image/Screenshot.png?raw=true)
